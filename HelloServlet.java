@@ -18,7 +18,7 @@ public class HelloServlet extends HttpServlet{
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 	    System.out.println("Servletalled.");
 	    
-	    List<String> listName = new ArrayList<String>();
+	    List<String> listNameAnother = new ArrayList<String>();
 	    
 	}	
 
